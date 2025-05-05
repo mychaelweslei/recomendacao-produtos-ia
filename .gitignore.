@@ -1,0 +1,16 @@
+# Cache do Python
+__pycache__/
+*.py[cod]
+
+# Jupyter notebooks checkpoints
+.ipynb_checkpoints/
+
+# Arquivos de ambiente
+.env
+
+# Arquivos temporários
+*.csv
+*.xlsx
+
+# Sistema
+.DS_Store
